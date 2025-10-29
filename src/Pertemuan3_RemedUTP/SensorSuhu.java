@@ -1,4 +1,4 @@
-package Pertemuam3_RemedUTP;
+package Pertemuan3_RemedUTP;
 import java.util.Scanner;
 
 public class SensorSuhu {
